@@ -4,6 +4,23 @@
 *.swp
 *.iml
 
+# Binaries for SDKs & Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go-finance
+
+# Test binary built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
 # OS generated files
 .DS_Store
 Thumbs.db
